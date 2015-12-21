@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\bin\Debug\Test_variant4_task3.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\bin\Debug\Test_variant4_task3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\bin\Debug\Test_variant4_task3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\obj\Debug\Test_variant4_task3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\obj\Debug\Test_variant4_task3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Test_variant4_task3\Test_variant4_task3\obj\Debug\Test_variant4_task3.pdb
